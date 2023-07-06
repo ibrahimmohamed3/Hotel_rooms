@@ -1,74 +1,89 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
-    },
-    {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
-    },
-    {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
-    },
-    {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
-    },
-    {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
-    },
-    {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
-    }
-  ]
-}
+    "rooms": [
+      {
+        "id": 1,
+        "roomNumber": "Room 1",
+        "imageURL": "Images/new1.webp",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 2,
+        "roomNumber": "Room 2",
+        "imageURL": "Images/new2.webp",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 3,
+        "roomNumber": "Room 3",
+        "imageURL": "Images/new3.webp",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 4,
+        "roomNumber": "Room 4",
+        "imageURL": "Images/new4.avif",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 5,
+        "roomNumber": "Room 5",
+        "imageURL": "Images/new6.avif",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 6,
+        "roomNumber": "Room 6",
+        "imageURL": "Images/new7.webp",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 7,
+        "roomNumber": "Room 7",
+        "imageURL": "Images/new8.webp",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 8,
+        "roomNumber": "Room 8",
+        "imageURL": "Images/room4.jpg",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 9,
+        "roomNumber": "Room 9",
+        "imageURL": "Images/room5.jpg",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 10,
+        "roomNumber": "Room 10",
+        "imageURL": "Images/room4.jpg",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 11,
+        "roomNumber": "Room 11",
+        "imageURL": "Images/room3.jpg",
+        "availability": 40,
+        "price": 250
+      },
+      {
+        "id": 12,
+        "roomNumber": "Room 12",
+        "imageURL": "Images/Room2.jpg",
+        "availability": 40,
+        "price": 250
+      }
+    ]
+  }
+  
